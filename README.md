@@ -1,0 +1,1 @@
+Predictiva Flutter app project

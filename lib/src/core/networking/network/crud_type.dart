@@ -1,0 +1,1 @@
+enum CrudType { get }
